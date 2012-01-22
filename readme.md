@@ -12,5 +12,5 @@ Sections
 2. [Create an event](cfa-event-guide/blob/master/create-event.md)
 3. [Build a contact list](cfa-event-guide/blob/master/build-list.md)
 4. [Invite participants](cfa-event-guide/blob/master/invite-participants.md)
-5. [Prepate for the event](cfa-event-guide/blob/master/event-preparation.md)
+5. [Prepare for the event](cfa-event-guide/blob/master/event-preparation.md)
 6. [Celebrate!](cfa-event-guide/blob/master/party-down.md)
