@@ -1,8 +1,5 @@
-Code for America Event Guide
-============================
-
 Introduction
--------------
+============
 
 [Code for America](http://codeforamerica.org/) relies on the idea that people across the country are willing and eager to get involved and use their skills to make a difference. 
 
